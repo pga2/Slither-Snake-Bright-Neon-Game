@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.LedzinyGameDevelopment.SlitherNeonio" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/game_icon"
+        android:isGame="true"
+        android:appCategory="game"
+        android:label="Snake Bright Neon"
+        android:theme="@style/GdxTheme" >
+        <activity
+            android:name="com.LedzinyGameDevelopment.SlitherNeonio.AndroidLauncher"
+            android:label="Snake Bright Neon"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

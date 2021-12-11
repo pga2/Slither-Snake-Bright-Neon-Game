@@ -1,0 +1,68 @@
+
+objects_sprite.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+world_border
+  rotate: false
+  xy: 1, 1285
+  size: 1600, 32
+  orig: 1600, 32
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1, 259
+  size: 256, 1024
+  orig: 256, 1024
+  offset: 0, 0
+  index: -1
+champions
+  rotate: false
+  xy: 259, 1155
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+coins
+  rotate: false
+  xy: 259, 1025
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+transparent_champions
+  rotate: false
+  xy: 259, 895
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+saw-blade
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+timeBar
+  rotate: false
+  xy: 773, 1025
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 1285, 1155
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 259, 765
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
